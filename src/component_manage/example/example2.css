@@ -1,11 +1,10 @@
 .table {
     width: 300px;
-    background-color: beige;
 }
 
 .th {
     display: flex;
-    background-color: rgba(0,0,0,0.4);
+    background-color: rgba(0, 0, 0, 0.4);
 }
 
 .tr {
