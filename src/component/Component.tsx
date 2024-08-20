@@ -89,4 +89,5 @@ export default function Component () {
             <div>Function Component</div>
         </>
     );
+
 }
