@@ -12,7 +12,8 @@ function App() {
       {/* <FunctionComponent /> */}
       {/* <CurlyBraces /> */}
       {/* <Properties /> */}
-      <ConditionalRender />
+      {/* <ConditionalRender /> */}
+      <Example2 />
     </>
   );
 }
