@@ -1,5 +1,5 @@
 import React from 'react'
-import './Example2.css';
+import './example2.css';
 
 export default function Example2() {
     return (
