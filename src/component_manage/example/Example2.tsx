@@ -109,7 +109,7 @@ export default function Example2() {
             <TableRow { ...employees[2] } /> */}
 
             <TableHeader />
-            {employees.map((employee, index) => <TableRow key={index}>{...employee} />)}
+            {employees.map((employee, index) => <TableRow key={index} {...employee} />)}
         </div>
     )
 }
