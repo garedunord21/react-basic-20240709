@@ -54,7 +54,7 @@ interface Child3Props {
 function Child3 ({ /*count, setCount*/ onIncrease }: Child3Props) {
 
     // const onIncrease = () => {
-    //     // setCount(count + 1);
+    // setCount(count + 1);
     //     setCount(count => count + 1);
     // };
 
