@@ -83,7 +83,7 @@ function SubComponent () {
         console.log('sub component mount!');
 
         return () => {
-            console.log('sub compnent unmount!');
+            console.log('sub component unmount!');
         };
     }, []);
 
