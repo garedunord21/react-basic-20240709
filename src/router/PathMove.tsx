@@ -1,7 +1,6 @@
 import React from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 
-
 export default function PathMove() {
 
     // - a 요소로 경로 이동을 하게되면 브라우저가 새로운 요청을 보냄
@@ -34,7 +33,7 @@ export default function PathMove() {
     const navigator = useNavigate();
     const onNavigator = () => {
         navigator('/component');
-    }
+    };
 
     return (
         <div>
